@@ -1,0 +1,5 @@
+1000:Mercedes:c202:Noir:5:non
+12345:range rover:high:Blanc:5:oui
+8745:Ferarri:x457:Rouge:2:non
+12544:BMW:Q5:Noir:5:oui
+47582:Dacia:Duster:Gris:5:oui
