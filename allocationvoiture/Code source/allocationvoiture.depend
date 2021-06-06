@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1623009500 source:d:\projet\allocationvoiture\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<math.h>
+	<windows.h>
+	<conio.h>
+
